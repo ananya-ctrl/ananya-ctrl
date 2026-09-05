@@ -24,7 +24,7 @@ Before choosing a model or framework, I focus on the **why behind the problem**â
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="./assets/ananya-ai-engineer.png" width="100%" alt="Illustration of Ananya building an AI system at a dual-monitor workspace" />
+<img src="./assets/ananya-ai-engineer-v2.png" width="100%" alt="Illustration of Ananya building an AI system at a dual-monitor workspace" />
 
 </td>
 </tr>
