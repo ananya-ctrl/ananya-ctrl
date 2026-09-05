@@ -11,11 +11,24 @@
 
 ## Hello, I'm Ananya
 
+<table>
+<tr>
+<td width="60%" valign="middle">
+
 I'm primarily an **AI engineer**, building systems that retrieve, reason, predict, and turn complex data into useful decisions. I'm also a **full-stack software engineer** who carries those ideas from models and APIs to reliable interfaces people can actually use.
 
 Before choosing a model or framework, I focus on the **why behind the problem**—who experiences it, what is getting in their way, and what would make the solution genuinely useful.
 
 > **I care about the path from an interesting model to a dependable product.**
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="./assets/ananya-ai-engineer.png" width="100%" alt="Illustration of Ananya building an AI system at a dual-monitor workspace" />
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
