@@ -73,6 +73,45 @@ Understanding the real problem first, then building only what makes the solution
 ![RAG](https://img.shields.io/badge/RAG-111516?style=flat-square&logo=googlegemini&logoColor=BB8CFF)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111516?style=flat-square&logo=graphql&logoColor=B8FF36)
 
+## Featured projects
+
+> **Five problems, five working systems—each built from the reason it needed to exist.**
+
+### [FlowRAG — visual RAG pipeline builder](https://github.com/ananya-ctrl/FlowRAG)
+
+- **Situation:** Designing a dependable RAG pipeline meant repeatedly testing disconnected choices for chunking, embeddings, retrieval, reranking, quality, and cost.
+- **Task:** Create one workspace where developers could build, compare, evaluate, and export complete retrieval pipelines.
+- **Action:** Built a Next.js and FastAPI platform with a drag-and-drop pipeline editor, AI configuration suggestions, multiple retrieval strategies, pgvector storage, live RAGAS-style evaluation, cost estimation, and Python code export.
+- **Result:** Delivered an end-to-end environment that makes RAG experiments visible, comparable, and reusable instead of leaving decisions scattered across notebooks and scripts.
+
+### [NeuralFlow — guided machine-learning workspace](https://github.com/ananya-ctrl/NeuralFlow)
+
+- **Situation:** Training a useful ML model often requires repetitive setup and enough technical knowledge to choose algorithms, evaluate results, and interpret metrics.
+- **Task:** Make structured machine-learning experimentation approachable without hiding the reasoning behind the output.
+- **Action:** Built a guided workflow for uploading datasets, selecting algorithms, training models, and reviewing evaluation metrics, visualizations, and plain-language explanations.
+- **Result:** Created a single workspace that takes an experiment from raw dataset to an understandable trained model, making iteration faster and more accessible.
+
+### [ExamFlow — AI-proctored examination platform](https://github.com/ananya-ctrl/realtime-exam-platform)
+
+- **Situation:** Online examinations need more than question delivery: institutions must coordinate candidates, examiners, administrators, integrity checks, grading, and live oversight.
+- **Task:** Lead the development of a unified, role-based platform that could support the complete examination lifecycle.
+- **Action:** Engineered student, examiner, and admin workflows; added browser-side MediaPipe face and gaze detection, fullscreen controls, live violation monitoring, analytics, multilingual support, and heuristic grading designed for later LLM replacement.
+- **Result:** Delivered a full-stack, installable examination system that brings exam delivery, proctoring, evaluation, and administrative monitoring into one product.
+
+### [Student Compass — student wellbeing companion](https://github.com/ananya-ctrl/Studentcompass)
+
+- **Situation:** Students often track their mood, habits, reflections, and wellbeing across disconnected tools—or stop tracking them altogether.
+- **Task:** Design a calmer, private space that could help students understand daily patterns and keep making progress.
+- **Action:** Built a unified experience for mood check-ins, habit building, private journaling, and guided reflection, with an interface designed around everyday student life.
+- **Result:** Turned several fragmented wellbeing routines into one coherent workspace that supports reflection without adding more friction.
+
+### [PlantDoc — AI-assisted plant health screening](https://github.com/ananya-ctrl/plantdoc)
+
+- **Situation:** Recognizing plant disease from visible symptoms can be difficult for users without immediate access to specialist guidance.
+- **Task:** Build a simple path from a plant image to an actionable first assessment.
+- **Action:** Developed an image-upload workflow backed by computer-vision classification, then connected predictions to disease information and treatment recommendations in a focused dashboard.
+- **Result:** Created an accessible screening experience that converts a leaf image into a clear, useful next step for plant care.
+
 ## Experience
 
 ### AI Intern · Infosys Springboard
